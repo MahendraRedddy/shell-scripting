@@ -20,5 +20,5 @@ echo b=${b}
 DATE=$(date)
 echo welcome,todaydate is $DATE
 
-ADD=$((2+3))
-echo ADD=$ADD
+ADD=$(2+3)
+echo ADD =$ADD
