@@ -8,4 +8,4 @@ netstat -lntp
 echo -e "mahe\nmahe2"
 echo -e "welcome\twelcome2"
 echo -e "\e[31mmahendra in redcolor"
-echo -e "\e33mmahesh"
+echo -e "\e33mmahesh in bluecolor"
