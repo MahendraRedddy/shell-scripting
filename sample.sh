@@ -11,3 +11,5 @@ echo -e "\e[31mmahendra in redcolor"
 echo -e "\e[34mmahesh in bluecolor"
 
 echo -e "\e[32mhello\nworld\tBye"
+
+echo  world no color
