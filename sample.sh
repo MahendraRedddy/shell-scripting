@@ -7,3 +7,4 @@ netstat -lntp
 
 echo -e "mahe\nmahe2"
 echo -e "welcome\twelcome2"
+echo red
