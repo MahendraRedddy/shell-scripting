@@ -17,3 +17,5 @@ echo  world no color
 echo -e "\e[1;35mlinux in color,\e[0m"
 
 echo no color in message
+
+echo -e "welcome to devops \nazure\taws"
