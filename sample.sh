@@ -15,3 +15,5 @@ echo -e "\e[32mhello\nworld\tBye"
 echo  world no color
 
 echo -e "\e[1;35mlinux in color,\e[0m"
+
+echo no color in message
