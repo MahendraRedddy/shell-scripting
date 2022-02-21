@@ -7,4 +7,7 @@
   b=xyz
   echo value of b=${b}
 
+  #boolean
+  c=true
 
+  echo c=${c}
