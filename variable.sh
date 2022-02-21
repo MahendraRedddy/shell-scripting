@@ -11,6 +11,6 @@ d=abc123
 
 #use single and double quotes based on code
 
-
+echo a= $a
 
 #echo ADD =$ADD
