@@ -15,8 +15,6 @@
   d=abc123
   echo d=$d
 
-   DATE="02/21/2022"
-      echo welcome $DATE
-      DATE=$(date,%F)
-      ADD=$((2+4))
-    echo ADD=$ADD
+  DATE="02/21/2022"
+  DATE=$(date +%F)
+
