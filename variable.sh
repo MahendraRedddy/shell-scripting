@@ -9,5 +9,8 @@
 
   #boolean
   c=true
-
   echo c=${c}
+
+  #string
+  d=abc123
+  echo d=$d
