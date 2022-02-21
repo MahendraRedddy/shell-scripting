@@ -9,11 +9,11 @@
 
   #boolean
   c=true
-  echo c=${c}
+  echo c=${c}\e"31m red"
 
   #string
   d=abc123
   echo d=$d
 
-  f="1*2"
+
 
