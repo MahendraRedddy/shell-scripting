@@ -15,5 +15,5 @@ echo b=$("b")
 
 echo c=$("c")
 
-echo d=$("d")
+
 #echo ADD =$ADD
