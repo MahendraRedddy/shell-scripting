@@ -15,6 +15,6 @@
   d=abc123
   echo d=$d
 
-
-  DATE=$(date +%f)
+  DATE="2/21/2022"
+  DATE=$(date +%F)
  echo welcome,todayis $DATE
