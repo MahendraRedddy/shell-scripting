@@ -16,3 +16,5 @@
   echo d=$d
 
   f="1*2"
+
+  echo f=$f
