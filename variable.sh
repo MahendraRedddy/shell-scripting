@@ -17,3 +17,6 @@
 
    DATE="02/21/2022"
       echo welcome $DATE
+
+      ADD=$((2+4))
+    echo ADD=$ADD
