@@ -15,7 +15,5 @@
   d=abc123
   echo d=$d
 
-  f=11
-  g=25
-
-  echo fg=$((f+g))
+   DATE="02/21/2022"
+      echo welcome $DATE
