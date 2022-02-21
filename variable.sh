@@ -15,5 +15,7 @@
   d=abc123
   echo d=$d
 
+  f=11
+  g=25
 
-
+  echo fg=$((f+g))
