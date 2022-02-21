@@ -9,7 +9,7 @@
 
   #boolean
   c=true
-  echo c=${c}\e"31m red"
+  echo c=${c}"31m red"
 
   #string
   d=abc123
