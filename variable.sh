@@ -10,10 +10,7 @@ c=true
 d=abc123
 
 #use single and double quotes based on code
-echo a=$a
-echo b=$("b")
 
-echo c=$("c")
 
 
 #echo ADD =$ADD
