@@ -44,3 +44,4 @@ f.In generally start with location /bin/bash
    2.Make individual script for each component
    problem:making individual may not make the code DRY(Don't Repeat Yourself)
 
+    Solution:use single script,but can individual script on provided input
