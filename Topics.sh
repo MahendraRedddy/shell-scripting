@@ -34,3 +34,13 @@ f.In generally start with location /bin/bash
 
    in putty to excute below command to use
    bash filename.sh
+
+
+   Roboshop project
+
+   1.keep all compents in one script
+   problem:we need to run only one component in one server
+
+   2.Make individual script for each component
+   problem:making individual may not make the code DRY(Don't Repeat Yourself)
+
