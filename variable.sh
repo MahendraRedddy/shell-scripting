@@ -15,12 +15,16 @@
  echo ${X}x${Y}=300
 
  # Today Date
-
  DATE=2022-02-23
   echo welcome today date is $DATE
 # print particular date
  DATE=$(date +%F)
  echo welcome today date is $DATE
+#Arithmetic substitution
+ADD=$((2+5+10+3))
+
+SUB=$((10-5))
+
 
   #string
   d=abc123
