@@ -23,10 +23,12 @@
 #Arithmetic substitution
 ADD=$((2+5+10+3))
   echo added=$ADD
-   or
+  # or
   echo addition is $ADD
 
 SUB=$((10-5))
+  echo substraction=$SUB
+  # or
   echo substraction is $SUB
 
   #string
