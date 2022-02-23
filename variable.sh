@@ -51,7 +51,7 @@ SUB=$((10-5))
   # echo=${a[0]} or {a[1]}
   #EX:
     a=(20 30)
-    echo =${a[0]}
+    echo ${a[0]}
     echo ${a[1]}
 
 # Named array
@@ -59,6 +59,6 @@ SUB=$((10-5))
 #    echo ${variablename[0]}
    #EX:
      declare -A rollnumber=( [401]=mahendra  [402]=mahesh)
-     echo ${rollnumber[401]}
+     echo = ${rollnumber[401]}
      echo ${rollnumber[402]}
 
