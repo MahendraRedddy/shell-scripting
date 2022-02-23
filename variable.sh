@@ -17,7 +17,9 @@
  # Today Date
 
  DATE=2022-02-23
-
+  echo welcome today date is $DATE
+# print particular date
+ DATE=$(date +%F)
  echo welcome today date is $DATE
 
   #string
