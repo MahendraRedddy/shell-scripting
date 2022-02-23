@@ -22,6 +22,8 @@
  echo welcome today date is $DATE
 #Arithmetic substitution
 ADD=$((2+5+10+3))
+  echo added=$ADD
+   or
   echo addition is $ADD
 
 SUB=$((10-5))
