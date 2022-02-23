@@ -16,7 +16,7 @@
 
  # Today Date
 
- DATE=02/23/2022
+ DATE=2022-02-23
 
  echo welcome today date is $DATE
 
