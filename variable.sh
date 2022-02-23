@@ -59,6 +59,6 @@ SUB=$((10-5))
 #    echo ${variablename[0]}
    #EX:
      declare -A rollnumber=( [401]=mahendra  [402]=mahesh)
-     echo = ${rollnumber[401]}
+     echo ${rollnumber[401]}
      echo ${rollnumber[402]}
 
