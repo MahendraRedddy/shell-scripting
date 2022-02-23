@@ -12,8 +12,14 @@
   echo c=${c}
 
  X=10 Y=30
-
  echo ${X}x${Y}=300
+
+ # Today Date
+
+ DATE=02/23/2022
+
+ echo welcome today date is $DATE
+
   #string
   d=abc123
   echo d=$d
