@@ -15,12 +15,14 @@
  echo ${X}x${Y}=300
 
  # Today Date
+ #Command Substitution VAR=$(Command)
  DATE=2022-02-23
   echo welcome today date is $DATE
 # print particular date
  DATE=$(date +%F)
  echo welcome today date is $DATE
 #Arithmetic substitution
+# syntax VAR=$((a+b) or VAR=%((a-b))
 ADD=$((2+5+10+3))
   echo added=$ADD
   # or
@@ -31,6 +33,7 @@ SUB=$((10-5))
   # or
   echo substraction is $SUB
 
+# we can do multiplications or divisions by using above commands
   #string
   d=abc123
   echo d=$d
