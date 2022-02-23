@@ -51,7 +51,7 @@ SUB=$((10-5))
   # echo=${a[0]} or {a[1]}
   #EX:
     a=(20 30)
-    echo ${a[0]}
+    echo =${a[0]}
     echo ${a[1]}
 
 # Named array
