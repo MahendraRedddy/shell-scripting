@@ -35,7 +35,7 @@ SUB=$((10-5))
 
   # Local variable but in terminal it show only Course name.in terminal we need use export command after that
   # only it show the course name
-   export   echo COURSE_NAME=$Devops
+      echo COURSE_NAME=$Devops
 
      # we can do multiplications or divisions by using above commands
   #string
