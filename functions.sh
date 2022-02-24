@@ -23,17 +23,17 @@ abc
 
 # example 3
 
-function abc() {
-  echo iam student abc
-  echo  function =$a
-  b=20
+ function def() {
+  echo iam student def
+  echo  function =$d
+  e=20
 }
 
-  xyz() {
-   echo iam a function of xyz
+  pqr() {
+   echo iam a function of pqr
  }
 # main program output
-abc
-a=10
-echo b function =$b
- xyz
+def
+d=10
+echo b function =$e
+ pqr
