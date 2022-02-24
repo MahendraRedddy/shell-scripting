@@ -14,7 +14,8 @@ echo "#=$#"
 
 
  DATE=$(date +%F)
-
- echo welcome today $DATE
+echo  $DATE
 echo -e "Your Name=$1\nYour Age=$2"
+
+echo -e "[33 welocme to script.sh"
 
