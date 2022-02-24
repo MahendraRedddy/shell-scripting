@@ -13,7 +13,7 @@ abc
 
 
 # Main input
- xyz() {
+  function xyz() {
    echo iam a function of XYZ
  }
 # main program o/p
