@@ -14,8 +14,8 @@ abc
 
 # Main input
   function xyz() {
-   echo iam a function of XYZ
+   echo iam a function of xyz
  }
 # main program o/p
- XYZ
+ xyz
 # output iam a function of XYZ it will print in putty
