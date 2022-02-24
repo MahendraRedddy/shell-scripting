@@ -7,3 +7,5 @@ function abc() {
 
 b=20
 }
+
+abc
