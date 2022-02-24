@@ -23,7 +23,7 @@ abc
 
 # example 3
 
-unction abc() {
+function abc() {
   echo iam student abc
   echo  function =$a
   b=20
