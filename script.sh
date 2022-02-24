@@ -17,5 +17,5 @@ echo "#=$#"
 echo  $DATE
 echo -e "Your Name=$1\nYour Age=$2"
 
-echo -e "[33m welocme to script.sh"
+echo -e "[31mwelocme to script.sh"
 
