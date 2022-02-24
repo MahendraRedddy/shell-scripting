@@ -8,8 +8,6 @@ function abc() {
 }
 # main program output
 abc
-
-XYZ
 # o/p iam student abc in putty terminal it will print
 #   or
 
@@ -18,6 +16,6 @@ XYZ
  xyz() {
    echo iam a function of XYZ
  }
-
+# main program o/p
  XYZ
 # output iam a function of XYZ it will print in putty
