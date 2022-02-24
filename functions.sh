@@ -8,6 +8,8 @@ function abc() {
 }
 # main program output
 abc
+
+XYZ
 # o/p iam student abc in putty terminal it will print
 #   or
 
