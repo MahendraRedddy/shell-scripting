@@ -12,6 +12,9 @@ echo "*=$*"
 #  # is No of values which are parsed
 echo "#=$#"
 
-echo -e "Your Name=$1\nYour Age=$2"
 
  DATE=$(date +%F)
+
+ echo welcome today $DATE
+echo -e "Your Name=$1\nYour Age=$2"
+
