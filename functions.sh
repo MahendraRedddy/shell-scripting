@@ -4,4 +4,6 @@
 
 function abc() {
   echo iam student abc
+
+b=20
 }
