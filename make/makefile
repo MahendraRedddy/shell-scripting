@@ -12,3 +12,7 @@ devops:
 	@echo devop
 data:
 	@echo da
+hi:
+  @echo hi
+bye:
+ @echo bye
