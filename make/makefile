@@ -1,5 +1,5 @@
-none:
-	@true
+#none:
+
 one:
 	@echo one
 hello:
