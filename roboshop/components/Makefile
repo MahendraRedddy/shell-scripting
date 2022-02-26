@@ -1,5 +1,4 @@
 Help:
-	#@fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//' | sed -e 's/##//'
     @IFS=$$'\n' ; \
         help_lines=(`fgrep -h "##" $(MAKEFILE_LIST) | fgrep -v fgrep | sed -e 's/\\$$//'`); \
         for help_line in $${help_lines[@]}; do \
