@@ -1,18 +1,2 @@
-
-
 hello:
-	@echo "hello world"
-mahe:
-	@echo "mahendra"
-one:
-	@echo One
-two:
-	@echo two
-devops:
-	@echo devop
-data:
-	@echo da
-hi:
-  @echo hi
-bye:
- @echo bye
+ @echo hello
