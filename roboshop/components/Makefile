@@ -19,7 +19,8 @@ Rabbitmq:##setup Rabbitmq
 Payment:#### Payment
 	@bash components/payment.sh
 Frontend:#### Frontend
-    @bash components/fronend.sh
+	@bash components/payment.sh
+
 
 
 
