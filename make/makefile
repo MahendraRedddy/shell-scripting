@@ -1,2 +1,2 @@
-hello world:
-	        @echo "hello world"
+hello:
+      @echo "hello"
