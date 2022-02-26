@@ -1,9 +1,9 @@
 Help:
-	@grep '####' makefile | grep -v grep
+	@grep '####' makefile | grep -v grep | sed -e 's/####//'
 one: ####Target one
 	@echo one
-hello: ####Target hello
-	@echo "hello world"
 two: ####Target two
 	@echo Two
+hello: ####Target hello
+	@echo "hello world"
 
