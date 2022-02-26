@@ -1,5 +1,5 @@
 Help:
-	@grep '####' makefile  | grep -v grep | sed -e 's/####//'
+	@grep '####' Makefile  | grep -v grep | sed -e 's/####//'
 Catalogue: ####setup Catalogue
 	@bash components/catalogue.sh
 mongodb: ####setup mongodb
