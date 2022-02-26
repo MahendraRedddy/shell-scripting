@@ -1,6 +1,4 @@
 hello:
-     @echo "hello"
-
-hi:
-    @echo "hi"
-
+	@echo "hello world"
+one:
+	@echo one
