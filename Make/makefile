@@ -1,4 +1,6 @@
 one:
-    @echo one
+    @echo One
 two:
-    @echo two
+    @echo Two
+
+
