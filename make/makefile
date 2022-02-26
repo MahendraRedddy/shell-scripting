@@ -6,3 +6,5 @@ mahe:
 	@echo "mahendra"
 one:
 	@echo One
+two:
+	@echo two
