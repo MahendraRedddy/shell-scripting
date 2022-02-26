@@ -10,4 +10,5 @@ two:
 	@echo two
 devops:
 	@echo devop
-
+data:
+	@echo da
