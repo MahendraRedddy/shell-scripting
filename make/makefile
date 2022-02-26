@@ -8,5 +8,3 @@ one:
 	@echo One
 two:
 	@echo two
-devops:
- @echo "dev"
