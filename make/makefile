@@ -7,4 +7,4 @@ hello:
 two:
 	@echo Two
 1:
-	@echo $1
+	@echo 1
