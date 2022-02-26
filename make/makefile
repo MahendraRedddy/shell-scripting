@@ -9,4 +9,4 @@ one:
 two:
 	@echo two
 devops:
-     @echo "dev"
+ @echo "dev"
