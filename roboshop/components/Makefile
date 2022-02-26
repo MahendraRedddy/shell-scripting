@@ -1,24 +1,24 @@
 Help:
 	@grep '####' Makefile  | grep -v grep | sed -e 's/####//'
-Catalogue: ####setup Catalogue components
+Catalogue: #### \tsetup Catalogue components
 	@bash components/catalogue.sh
-mongodb: ####setup mongodb components
+mongodb: #### \tsetup mongodb components
 	@bash components/mongodb.sh
-Redis: ####Redis components
+Redis: #### \tRedis setup components
 	@bash components/redis.sh
-User:####setup User components
+User:#### \tsetup User components
 	@bash components/user.sh
-Cart:####setup Cart components
+Cart:#### \tsetup Cart components
 	@bash components/cart.sh
-Mysql:####setup Mysql components
+Mysql:#### \tsetup Mysql components
 	@bash components/mysql.sh
-Shipping:####setup Shipping components
+Shipping:#### \tsetup Shipping components
 	@bash components/shipping.sh
-Rabbitmq:##setup Rabbitmq components
+Rabbitmq:## \tsetup Rabbitmq components
 	@bash components/rabbitmq.sh
 Payment:#### \tPayment setup components
 	@bash components/payment.sh
-Frontend:#### Frontend setup components
+Frontend:#### \tFrontend setup components
 	@bash components/payment.sh
 
 
