@@ -8,3 +8,6 @@ two:
 	@echo Two
 1:
 	@echo 1
+mahendra:
+ @echo mahe
+	
