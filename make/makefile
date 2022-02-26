@@ -1,9 +1,9 @@
 Help:
 	@grep '####' makefile | grep -v grep
-one: #### Target one
+one: ####Target one
 	@echo one
-hello: #### Target hello
+hello: ####Target hello
 	@echo "hello world"
-two: #### Target two
+two: ####Target two
 	@echo Two
 
